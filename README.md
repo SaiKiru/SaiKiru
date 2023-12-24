@@ -2,7 +2,7 @@
 
 I'm Anthony Aromin.
 
-I'm a student and hobbyist programmer interested in creating software for Linux and Android. I'm not as active as I used to be but I still do program in my spare time.
+I'm a hobbyist programmer interested in creating software mobile and web. I'm not as active as I used to be but I still do program in my spare time.
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
